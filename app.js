@@ -2,7 +2,7 @@
 var width = window.innerWidth;
 var height = window.innerHeight;
 
-var eventsInterval = 2000;
+var eventsInterval = 1000;
 var randomSimulator = true;
 
 var friendZoneRange = [400, 300, 200];
